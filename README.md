@@ -66,4 +66,4 @@ The modeling phase focused on handling imbalanced data and leveraging the power 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/student-success-insights.git](https://github.com/yourusername/student-success-insights.git)
+   git clone [https://github.com/yegonkevin1/student-data-insights.git](https://github.com/yegonkevin1/student-data-insights.git)
